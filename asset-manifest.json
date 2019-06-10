@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.19bf5232.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.35f32b32.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.35f32b32.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
+    "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/Clicky-Game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/Clicky-Game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.4d0907d4c9b85a612c313d7e1723dcfd.js": "/Clicky-Game/precache-manifest.4d0907d4c9b85a612c313d7e1723dcfd.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.19bf5232.chunk.css.map": "/Clicky-Game/static/css/main.19bf5232.chunk.css.map",
+    "static/media/Applejack.jpg": "/Clicky-Game/static/media/Applejack.904222a5.jpg",
+    "static/media/Blaze.jpg": "/Clicky-Game/static/media/Blaze.51300490.jpg",
+    "static/media/Celestia.jpg": "/Clicky-Game/static/media/Celestia.aab47ba4.jpg",
+    "static/media/Dashy.jpg": "/Clicky-Game/static/media/Dashy.01060fc9.jpg",
+    "static/media/Daybreaker.jpg": "/Clicky-Game/static/media/Daybreaker.92088108.jpg",
+    "static/media/Fluttershy.jpg": "/Clicky-Game/static/media/Fluttershy.eae516ae.jpg",
+    "static/media/Luna.jpg": "/Clicky-Game/static/media/Luna.fffa543c.jpg",
+    "static/media/Nightmare.jpg": "/Clicky-Game/static/media/Nightmare.cf7f3152.jpg",
+    "static/media/Pinky.jpg": "/Clicky-Game/static/media/Pinky.de5cbe18.jpg",
+    "static/media/Rarity.jpg": "/Clicky-Game/static/media/Rarity.0f1cbd15.jpg",
+    "static/media/Trixie.jpg": "/Clicky-Game/static/media/Trixie.7ded9967.jpg",
+    "static/media/Twilight.jpg": "/Clicky-Game/static/media/Twilight.c6428b50.jpg"
+  }
+}
