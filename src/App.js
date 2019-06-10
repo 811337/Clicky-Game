@@ -28,7 +28,7 @@ class App extends Component {
         score: 0
       });
 
-      alert("You lose. Play again?");
+      alert("You alraedy clicked that. Play again?");
 
     } else {
 
@@ -40,13 +40,14 @@ class App extends Component {
           clickedPony: this.state.clickedPony.concat(
             currentPony
           ),
+
           score: this.state.score + 1
         },
         
         () => {
           if (this.state.score === 12) {
 
-            alert("You Win!");
+            alert("You have all the friends!");
 
             this.setState({
               pony: this.state.pony.sort(function(a, b) {

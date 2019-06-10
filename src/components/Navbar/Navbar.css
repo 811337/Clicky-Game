@@ -4,20 +4,19 @@
 }
 
 .itemLeft {
-  width: 15%;
+  width: 30%;
 }
 
 .itemCenter {
-	width: 70%;
+	width: 40%;
 }
 
 .itemRight {
-  width: 15%;
+  width: 30%;
 }
 
 .navbar {
-  background: #490549;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  background: darkmagenta;
 }
 
 li {

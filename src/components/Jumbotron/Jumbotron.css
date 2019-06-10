@@ -1,18 +1,21 @@
 .header{
-	background-color: #ccc;
+	background-color: hotpink;
 	position: relative;
 	width: 100%;
 }
 
 h1{
+	color: white;
 	text-align: center;
-	font-size: 90px;
+	font-size: 70px;
 	font-weight: bold;
-	padding: 90px 0 20px 0; 
+	margin: 0;
+	padding: 40px; 
 }
 
 h2{
 	text-align: center;
 	font-size: 25px;
-	padding-bottom: 40px;
+	margin: 0;
+	padding-bottom: 20px;
 }
